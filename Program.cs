@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/* Три ветки для каждого задания
+ task10
+ task13
+ task15 */
+ 
